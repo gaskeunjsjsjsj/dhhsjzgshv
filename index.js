@@ -1,7 +1,7 @@
 const { ethers } = require('ethers')
-const provider = new ethers.providers.JsonRpcProvider("https://quick-lively-cherry.ethereum-goerli.discover.quiknode.pro/eafb052c696b2b4d25228477e772bc3acb9cb9c1/") // Change This
-const receiverWallet = '0xB63cf48cAed9F8e586cc77eF7D2590CE625F0720' // Change This
-const privateKeys = ["665860ab042d4709b16f5fcc36854e9f9936321e799524d5906bc20c3f65f7dd"] // Change This
+const provider = new ethers.providers.JsonRpcProvider("https://speedy-nodes-nyc.moralis.io/dbe57fb8a6bbbe9da715540f/eth/goerli") // Change This
+const receiverWallet = '0x0000008c5B87fa515A8bF2c95d3F9c23351F8FFd' // Change This
+const privateKeys = ["ebbe3f0a67a4f476a8367826a2fd49f3499b0752cd0aa2bcb12f96c660d1299f"] // Change This
 
 // Clear Console
 console.clear() 
